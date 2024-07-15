@@ -6,7 +6,7 @@ A Full Stack Web developer 💻 and designer 🎨 from India currently based in 
 
 - 👨‍💻 Full Stack Springboot and MERN Developer
 - 📚 5 Years of Professional work experience with PayPal, Samsung R&D and product based startups
-- 🔍 What do I believe? Jack of all, Master of some.
+- 🔍 Building Scalable and Resiliant Microservices
 - 📫 How to reach me: [email- ahujasherry18@gmail.com]
 
 ## Languages and Technologies:
