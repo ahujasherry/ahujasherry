@@ -35,6 +35,6 @@ A Full Stack Web developer 💻 and designer 🎨 from India currently based in 
 ### Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=ahujasherry)
 
-## Connect with Me
+## 🤝🏻 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahujasherry/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahujasherry18@gmail.com)
