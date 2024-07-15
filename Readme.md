@@ -26,6 +26,9 @@ A Full Stack Web developer 💻 and designer 🎨 from India currently based in 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
 
+## Sherry Ahuja's Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ahujasherry?theme=dark&font=Archivo)
+
 ## Sherry Ahuja's GitHub Stats
 ![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahujasherry&show_icons=true&theme=radical)
 
