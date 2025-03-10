@@ -5,7 +5,7 @@ Hi there, I'm Sherry 👋,
 A Full Stack Web developer 💻 and designer 🎨 from India currently based in Toronto, Canada.
 
 - 👨‍💻 Full Stack Springboot and MERN Developer
-- 📚 5 Years of Professional work experience with PayPal, Samsung R&D and product based startups
+- 📚 5 Years of Professional work experience with Talink, PayPal, Samsung R&D and product based startups
 - 🔍 Building Scalable and Resiliant  Microservices
 - 📫 How to reach me: [email- ahujasherry18@gmail.com]
 
