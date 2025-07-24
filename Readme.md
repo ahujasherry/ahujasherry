@@ -2,7 +2,7 @@
 
 Hi there, I'm Sherry 👋,
 
-A Full Stack Web developer 💻 and designer 🎨 from India currently based in Toronto, Canada.
+A backend developer at Amazon, Vancouver , Canada💻 
 
 - 👨‍💻 Full Stack Springboot and MERN Developer
 - 📚 5 Years of Professional work experience with Talink, PayPal, Samsung R&D and product based startups
